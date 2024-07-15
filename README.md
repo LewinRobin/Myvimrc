@@ -1,2 +1,2 @@
 # Myvimrc
-This is my vimrc
+Yes, I use vim, nvim and vscodevim (btw).
