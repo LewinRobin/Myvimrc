@@ -122,3 +122,8 @@ xnoremap <C-tab> :tabo<CR>
 
 nnoremap J mzJ`z
 xnoremap J mzJ`z
+
+" Select entire word beneath cursor.
+nnoremap <leader>* yiW/<C-r>0<CR>
+" Select word or sentence under selection.
+xnoremap <leader>* y/<C-r>0<CR>
